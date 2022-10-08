@@ -1,0 +1,38 @@
+# Compiled artifacts
+*.class
+target/
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#IDE settings
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+#temp folder
+temp/
+
+# build system temporary files
+.gradle/
+main/build/
+build
+build-cache/
